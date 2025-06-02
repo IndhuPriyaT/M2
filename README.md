@@ -218,6 +218,7 @@ void fact()
         f*=i;
     }
     printf("Factorial value is: %d",f);
+}
 int main()
 {
   fact();
